@@ -15,21 +15,21 @@ Tools: *`JIRa` `Confluence` `Git` `Github` `Yarn` `NPM` `Linode` `Netlify` `Goog
 
 Languages: *`English` `French`*
 
-## PROJECTS 
+## PROJECTS
 
 ### MuseMasters.org
 
 GitHub repo: https://github.com/stanclarke-jr/musemasters-org
 
-Future home on the web: https://musemasters.orgYouTube 
+Future home on the web: https://musemasters.orgYouTube
 
-Data API: https://developers.google.com/youtube/v3 
+Data API: https://developers.google.com/youtube/v3
 
 *YouTube is a rabbit hole of videos. MuseMasters curates music lessons based on custom search queries using YouTube’s Data API. Specifically, the* `search.list` *method made available at their* `search` *endpoint.*
 
 *When a user visits the home page, they are presented with a video player, and rows of videos categorized by instrument. Video lessons are either beginner, intermediate, or advanced, jazz or blues. Click a video, and the user is brought to the video player to start watching the lesson.*
 
-**Technologies**: 
+**Technologies**:
 
 - MongoDB (Mongoose), Express, Node.js, React, and styled-components
 - Video.js, videojs-youtube
@@ -60,7 +60,7 @@ A passion project, MuseMasters is a community-oriented, e-learning platform focu
 
 - Managed and prioritized incoming customer inquiries.
 - Customized themes using HTML, CSS & JavaScript.
-- Troubleshooted and resolved technical issues over the phone, email & chat. 
+- Troubleshooted and resolved technical issues over the phone, email & chat.
 - Documented and tracked customer issues and resolutions.
 - Identified, documented, and communicated software defects.
 - Collaborated with peers and other departments on specific user-impacting issues.
@@ -73,7 +73,7 @@ A passion project, MuseMasters is a community-oriented, e-learning platform focu
 
 - Responded to a variety of enquiries or requests related to tax matters, CRA administered programs and related accounts.
 - Performed various calculations to determine tax or CRA administered program requirements, elections, entitlements, or administrative relief.
-- Accepted payment arrangements where applicable and authorized, within established parameters. 
+- Accepted payment arrangements where applicable and authorized, within established parameters.
 - Educated taxpayers by providing information and promoting available services.
 
 ### RBC Royal Bank
@@ -81,7 +81,7 @@ A passion project, MuseMasters is a community-oriented, e-learning platform focu
 
 - Responsible for managing, retaining and growing a portfolio of clients.
 - Accountable for acquiring new clients through business development strategies and events.
-- Provided proactive financial advice based on clients’ personal and business banking needs. 
+- Provided proactive financial advice based on clients’ personal and business banking needs.
 - Compiled and analyzed financial data for the purposes of credit applications.
 
 ## EDUCATION
@@ -98,8 +98,8 @@ _October 2017 - June 2018_
 
 ### Ryerson University
 
-***Bachelor of Journalism***,  _Montreal, QC_
-_September 2006 - April 2007_
+***Bachelor of Journalism*** (2yrs),  _Montreal, QC_
+_September 2006 - April 2007, completed one year_
 
 ### Concordia University
 
