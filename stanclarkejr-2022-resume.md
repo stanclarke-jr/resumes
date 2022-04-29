@@ -21,7 +21,7 @@ Languages: *`English` `French`*
 
 GitHub repo: https://github.com/stanclarke-jr/musemasters-org
 
-Future home on the web: https://musemasters.orgYouTube
+Future home on the web: https://musemasters.org
 
 Data API: https://developers.google.com/youtube/v3
 
@@ -48,7 +48,7 @@ Provide services such as technical facilitation and training (group and individu
 ### Digital Triptychs
 ***Owner & Freelance Web Developer*** - _October 2016 to Present_
 
-I build Websites for professions and local small businesses. Operate all aspects of the business, including marketing, sales, customer service and accounting.
+I build Websites for professionals and local small businesses. Operate all aspects of the business, including marketing, sales, customer service and accounting.
 
 ### MuseMasters Live
 ***Founder & Full Stack Developer*** - _January 2020 to Present_
