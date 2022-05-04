@@ -17,7 +17,7 @@ Languages: *`English` `French`*
 
 ## PROJECTS
 
-### MuseMasters.org
+### MuseMasters.org — _Final project for Concordia’s Full Stack Web Development Bootcamp_
 
 GitHub repo: https://github.com/stanclarke-jr/musemasters-org
 
@@ -36,6 +36,28 @@ Data API: https://developers.google.com/youtube/v3
 - googleapis, Axios, apicache
 - JSON Web Tokens, bcryptjs, localStorage, Cloudinary API
 - ESLint, prettier
+
+## EDUCATION
+
+### Concordia University
+
+***Full Stack Web Development Diploma***, _Montreal, QC_
+_January - April 2022_
+
+### Montreal College of Information Technology
+
+***Diploma, Programmer Analyst: Web Development***,  _Montreal, QC_
+_October 2017 - June 2018_
+
+### Ryerson University
+
+***Bachelor of Journalism*** (2yrs),  _Montreal, QC_
+_September 2006 - April 2007, completed one year_
+
+### Concordia University
+
+***Bachelor of Fine Arts, Specialization in Jazz Studies - Tenor Saxophone***,  _Montreal, QC_
+_September 2002 - April 2006_
 
 ## WORK EXPERIENCE
 
@@ -83,28 +105,6 @@ A passion project, MuseMasters is a community-oriented, e-learning platform focu
 - Accountable for acquiring new clients through business development strategies and events.
 - Provided proactive financial advice based on clients’ personal and business banking needs.
 - Compiled and analyzed financial data for the purposes of credit applications.
-
-## EDUCATION
-
-### Concordia University
-
-***Full Stack Web Development Diploma***, _Montreal, QC_
-_January - April 2022_
-
-### Montreal College of Information Technology
-
-***Diploma, Programmer Analyst: Web Development***,  _Montreal, QC_
-_October 2017 - June 2018_
-
-### Ryerson University
-
-***Bachelor of Journalism*** (2yrs),  _Montreal, QC_
-_September 2006 - April 2007, completed one year_
-
-### Concordia University
-
-***Bachelor of Fine Arts, Specialization in Jazz Studies - Tenor Saxophone***,  _Montreal, QC_
-_September 2002 - April 2006_
 
 ---
 
