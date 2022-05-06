@@ -44,20 +44,30 @@ Data API: https://developers.google.com/youtube/v3
 ***Full Stack Web Development Diploma***, _Montreal, QC_
 _January - April 2022_
 
+An immersive bootcamp that focused on modern web development with JavaScript.
+
 ### Montreal College of Information Technology
 
 ***Diploma, Programmer Analyst: Web Development***,  _Montreal, QC_
 _October 2017 - June 2018_
+
+An intensive diploma program that was designed to enable the building of compelling, dynamic or static
+websites using cutting-edge programming languages and web frameworks (Angular.js).
 
 ### Ryerson University
 
 ***Bachelor of Journalism*** (2yrs),  _Montreal, QC_
 _September 2006 - April 2007, completed one year_
 
+A program for university graduates offering advanced professional education in journalism as
+practiced in all major media: newspapers, magazines, broadcasting and new media.
+
 ### Concordia University
 
 ***Bachelor of Fine Arts, Specialization in Jazz Studies - Tenor Saxophone***,  _Montreal, QC_
 _September 2002 - April 2006_
+
+Full immersion into the language of jazz, composition, theory, and performance.
 
 ## WORK EXPERIENCE
 
