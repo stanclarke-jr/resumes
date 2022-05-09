@@ -109,7 +109,7 @@ A passion project, MuseMasters is a community-oriented, e-learning platform focu
 - Educated taxpayers by providing information and promoting available services.
 
 ### RBC Royal Bank
-***Banking Advisor*** - _October 2007 to January 2012_
+***Banking Advisor*** - _October 2012 to January 2016_
 
 - Responsible for managing, retaining and growing a portfolio of clients.
 - Accountable for acquiring new clients through business development strategies and events.
