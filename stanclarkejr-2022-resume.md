@@ -71,6 +71,14 @@ Full immersion into the language of jazz, composition, theory, and performance.
 
 ## WORK EXPERIENCE
 
+### Concordia Bootcamps
+
+***Web Development Instructor*** - _May 2022 to Present_
+
+Responsible for teaching a class of beginners various topics (HTML, CSS, JavaScript, GitHub, React,
+NodeJS, EJS, and MongoDB), assigning work, reviewing code, grading, and mentoring students on a 1-1
+basis. Also work closely in collaboration with other instructors and the education team.
+
 ### Centre for Community Organizations (COCo)
 
 ***Affiliate Facilitator, Web Development*** - _July 2021 to Present_
